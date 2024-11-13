@@ -1,0 +1,14 @@
+hosts:
+    server_01:
+        ssh_address: 192.168.56.111
+        ssh_port: 22
+        ssh_user: mla
+        ssh_password: password_mla
+
+    server_02:
+        ssh_address: 192.168.56.112
+        ssh_port: 22
+        ssh_user: mla
+        ssh_password: password_mla
+        ssh_key_file: E:\MASTER\TIC-NUX4\group-1031945\mla_key
+        
